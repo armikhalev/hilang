@@ -1,4 +1,4 @@
-# hilang
+# Hilang
 Hilang - Hiccup-like syntax for JavaScript
 
 ## Highlights:
