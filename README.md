@@ -23,6 +23,9 @@ hilang(['div',
   ['div', 'your 1 text'],
   ['div', 'your 2 text']])
  ```
+ Produces html:
+ `<div><div>your 1 text</div><div>your 2 text</div></div>`
+ 
  Which means you can use JavaScript to generate html:
  ```
  var headers =
